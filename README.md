@@ -3,7 +3,7 @@
 ## Overview
 This is a personal portfolio website showcasing my about, project, contact. The website is made by student of Revou
 Deploy Website:
-github : https://revou-fsse-feb25.github.io/milestone-1-sweetmerry/
+github : https://github.com/revou-fsse-feb25/milestone-1-sweetmerry.git
 netlify : https://clever-longma-3b5994.netlify.app/
 
 ## Features Implemented
